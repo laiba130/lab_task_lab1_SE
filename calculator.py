@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def my_calculator():
     no_val = 1
     value = []
@@ -31,4 +32,5 @@ def my_calculator():
 
 
 print(f"Your output = {my_calculator(g)}")
+
 
